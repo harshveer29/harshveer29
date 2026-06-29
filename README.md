@@ -21,10 +21,10 @@ SETUP — delete this comment block before publishing:
  
 </div>
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:saiiniharsh162@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/harshsainii/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="[https://YOUR_PORTFOLIO_URL](https://portfolio-harsh-beer.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
-  <a href="https://YOUR_TRYLUVIFY_URL"><img src="https://img.shields.io/badge/TryLuvify-Live%20Product-e63950?style=for-the-badge" alt="tryluvify"/></a>
+  <a href="[https://YOUR_TRYL](https://www.tryluvify.com/)"><img src="https://img.shields.io/badge/TryLuvify-Live%20Product-e63950?style=for-the-badge" alt="tryluvify"/></a>
 </p>
 <br/>
 
@@ -95,6 +95,12 @@ Both are early-stage. No vanity metrics here — what I can say is they're deplo
   <img src="https://github-readme-stats.vercel.app/api?username=harshveer29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="github stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshveer29&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="top languages"/>
 </p>
+
+<!-- SNAKE GRID INTERACTION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ## Let's talk
  
