@@ -94,8 +94,12 @@ Both are early-stage. No vanity metrics here — what I can say is they're deplo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshveer29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="github stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshveer29&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="top languages"/>
-</p>
 
+<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="130" />
+      <br/><br/>
+      <!-- Dynamic Language Usage Matrix -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princekumar-dev74&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 <!-- SNAKE GRID INTERACTION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/github-contribution-grid-snake.svg" />
